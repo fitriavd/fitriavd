@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Fitria Vuspita Dewi  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
 <div align="center">
-  <img height="250" src="assets/icon-github.jpg"  />
+  <img height="250" src="assets/aku.png"  />
 </div>
 
 ###
